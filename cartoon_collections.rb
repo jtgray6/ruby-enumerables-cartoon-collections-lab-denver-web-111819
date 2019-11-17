@@ -10,7 +10,7 @@ def summon_captain_planet(array)
   final=[]
   i=0
   while i<array.length
-    
+    final << array[]
   end
 end
 
